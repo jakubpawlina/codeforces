@@ -20,7 +20,7 @@
 ### Contest 1370 - Codeforces Round #651 (Div. 2)
 - [1370A - Maximum GCD](problemset/800/1370A_maximum-gcd.cpp) ([problem site](https://codeforces.com/contest/1370/problem/A))
 
-### Contest 1368 - Codeforces Round #650 (Div. 3)
+### Contest 1368 - Codeforces Global Round 8
 - [1368A - C+=](problemset/800/1368A_c-plus-equal.cpp) ([problem site](https://codeforces.com/contest/1368/problem/A))
 
 ### Contest 1367 - Codeforces Round #650 (Div. 3)
