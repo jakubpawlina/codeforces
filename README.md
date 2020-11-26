@@ -1,12 +1,15 @@
 # Codeforces Solutions
 
-## Currently solved: 70
+![Generic badge](https://img.shields.io/badge/Solved_tasks-71-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-62-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
 - [1454B - Unique Bid Auction](div3%23686_2020-11-24/Problem-B.cpp) ([problem site](https://codeforces.com/contest/1454/problem/B))
 - [1454C - Sequence Transformation](div3%23686_2020-11-24/Problem-C.cpp) ([problem site](https://codeforces.com/contest/1454/problem/C))
 - [1454D - Number into Sequence](div3%23686_2020-11-24/Problem-D.cpp) ([problem site](https://codeforces.com/contest/1454/problem/D))
+
+### Contest 1440 - Codeforces Round #684 (Div. 2)
+- [1440A - Buy the String](problemset/800/1440A_buy-the-string.cpp) ([problem site](https://codeforces.com/contest/1440/problem/A))
 
 ### Contest 1385 - Codeforces Round #656 (Div. 3)
 - [1385A - Three Pairwise Maximums](div3%23656_2020-07-17/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1385/problem/A))
