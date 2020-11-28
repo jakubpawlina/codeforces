@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-71-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-62-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-72-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-62-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -26,6 +26,7 @@
 ### Contest 1367 - Codeforces Round #650 (Div. 3)
 - [1367A - Short Substrings](div3%23650_2020-06-16/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1367/problem/A))
 - [1367B - Even Array](div3%23650_2020-06-16/Problem-B.cpp) ([problem site](https://codeforces.com/contest/1367/problem/B))
+- [1367C - Social Distance](problemset/1300/1367C_social-distance.cpp) ([problem site](https://codeforces.com/contest/1367/problem/C))
 
 ### Contest 1328 - Codeforces Round #629 (Div. 3)
 - [1328A - Divisibility Problem](problemset/800/1328A_divisibility-problem.cpp) ([problem site](https://codeforces.com/contest/1328/problem/A))
