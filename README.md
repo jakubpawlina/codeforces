@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-72-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-62-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-74-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-62-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -194,6 +194,8 @@
 
 ### Contest 4 - Codeforces Beta Round #4 (Div. 2 Only)
 - [4A - Watermelon](problemset/800/4A_watermelon.cpp) ([problem site](https://codeforces.com/contest/4/problem/A))
+- [4B - Before an Exam](problemset/1200/4B_before-an-exam.cpp) ([problem site](https://codeforces.com/contest/4/problem/B))
+- [4C - Registration System](problemset/1300/4C_registration-system.cpp) ([problem site](https://codeforces.com/contest/4/problem/C))
 
 ### Contest 1 - Codeforces Beta Round #1
 - [1A - Theatre Square](problemset/1000/1A_theatre-square.cpp) ([problem site](https://codeforces.com/contest/1/problem/A))
