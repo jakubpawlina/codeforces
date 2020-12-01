@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-74-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-62-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-80-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-68-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -28,6 +28,9 @@
 - [1367B - Even Array](div3%23650_2020-06-16/Problem-B.cpp) ([problem site](https://codeforces.com/contest/1367/problem/B))
 - [1367C - Social Distance](problemset/1300/1367C_social-distance.cpp) ([problem site](https://codeforces.com/contest/1367/problem/C))
 
+### Contest 1335 - Codeforces Round #634 (Div. 3)
+- [1335A - Candies and Two Sisters](problemset/800/1335A_candies-and-two-sisters.cpp) ([problem site](https://codeforces.com/contest/1335/problem/A))
+
 ### Contest 1328 - Codeforces Round #629 (Div. 3)
 - [1328A - Divisibility Problem](problemset/800/1328A_divisibility-problem.cpp) ([problem site](https://codeforces.com/contest/1328/problem/A))
 
@@ -45,6 +48,9 @@
 
 ### Contest 791 - Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1)
 - [791A - Bear and Big Brother](problemset/800/791A_bear-and-big-brother.cpp) ([problem site](https://codeforces.com/contest/791/problem/A))
+
+### Contest 785 - Codeforces Round #404 (Div. 2)
+- [785A - Anton and Polyhedrons](problemset/800/785A_anton-and-polyhedrons.cpp) ([problem site](https://codeforces.com/contest/785/problem/A))
 
 ### Contest 734 - Codeforces Round #379 (Div. 2)
 - [734A - Anton and Danik](problemset/800/734A_anton-and-danik.cpp) ([problem site](https://codeforces.com/contest/734/problem/A))
@@ -64,6 +70,12 @@
 ### Contest 546 - Codeforces Round #304 (Div. 2)
 - [546A - Soldier and Bananas](problemset/800/546A_soldier-and-bananas.cpp) ([problem site](https://codeforces.com/contest/546/problem/A))
 
+### Contest 520 - Codeforces Round #295 (Div. 2)
+- [520A - Pangram](problemset/800/520A_pangram.cpp) ([problem site](https://codeforces.com/contest/520/problem/A))
+
+### Contest 492 - Codeforces Round #280 (Div. 2)
+- [492B - Vanya and Lanterns](problemset/1200/492B_vanya-and-lanterns.cpp) ([problem site](https://codeforces.com/contest/492/problem/B))
+
 ### Contest 486 - Codeforces Round #277 (Div. 2)
 - [486A - Calculating Function](problemset/800/486A_calculating-function.cpp) ([problem site](https://codeforces.com/contest/486/problem/A))
 
@@ -75,6 +87,9 @@
 
 ### Contest 467 - Codeforces Round #267 (Div. 2)
 - [467A - George and Accommodation](problemset/800/467A_george-and-accommodation.cpp) ([problem site](https://codeforces.com/contest/467/problem/A))
+
+### Contest 466 - Codeforces Round #266 (Div. 2)
+- [466A - Cheap Travel](problemset/1200/466A_cheap-travel.cpp) ([problem site](https://codeforces.com/contest/466/problem/A))
 
 ### Contest 443 - Codeforces Round #253 (Div. 2)
 - [443A - Anton and Letters](problemset/800/443A_anton-and-letters.cpp) ([problem site](https://codeforces.com/contest/443/problem/A))
@@ -140,6 +155,9 @@
 
 ### Contest 144 - Codeforces Round #103 (Div. 2)
 - [144A - Arrival of the General](problemset/800/144A_arrival-of-the-general.cpp) ([problem site](https://codeforces.com/contest/144/problem/A))
+
+### Contest 141 - Codeforces Round #101 (Div. 2)
+- [141A - Amusing Joke](problemset/800/141A_amusing-joke.cpp) ([problem site](https://codeforces.com/contest/141/problem/A))
 
 ### Contest 136 - Codeforces Beta Round #97 (Div. 2)
 - [136A - Presents](problemset/800/136A_presents.cpp) ([problem site](https://codeforces.com/contest/136/problem/A))
