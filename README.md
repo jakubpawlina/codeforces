@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-80-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-68-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-85-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-73-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -42,6 +42,9 @@
 
 ### Contest 1030 - Technocup 2019 - Elimination Round 1
 - [1030A - In Search of an Easy Problem](problemset/800/1030A_in-search-of-an-easy-problem.cpp) ([problem site](https://codeforces.com/contest/1030/problem/A))
+
+### Contest 996 - Codeforces Round #492 (Div. 2) [Thanks, uDebug!]
+- [996A - Hit the Lottery](problemset/800/996A_hit-the-lottery.cpp) ([problem site](https://codeforces.com/contest/996/problem/A))
 
 ### Contest 977 - Codeforces Round #479 (Div. 3)
 - [977A - Wrong Subtraction](problemset/800/977A_wrong-subtraction.cpp) ([problem site](https://codeforces.com/contest/977/problem/A))
@@ -91,6 +94,9 @@
 ### Contest 466 - Codeforces Round #266 (Div. 2)
 - [466A - Cheap Travel](problemset/1200/466A_cheap-travel.cpp) ([problem site](https://codeforces.com/contest/466/problem/A))
 
+### Contest 451 - Codeforces Round #258 (Div. 2)
+- [451A - Game With Sticks](problemset/900/451A_game-with-sticks.cpp) ([problem site](https://codeforces.com/contest/451/problem/A))
+
 ### Contest 443 - Codeforces Round #253 (Div. 2)
 - [443A - Anton and Letters](problemset/800/443A_anton-and-letters.cpp) ([problem site](https://codeforces.com/contest/443/problem/A))
 
@@ -120,6 +126,9 @@
 
 ### Contest 271 - Codeforces Round #166 (Div. 2)
 - [271A - Beautiful Year](problemset/800/271A_beautiful-year.cpp) ([problem site](https://codeforces.com/contest/271/problem/A))
+
+### Contest 268 - Codeforces Round #164 (Div. 2)
+- [268A - Games](problemset/800/268A_games.cpp) ([problem site](https://codeforces.com/contest/268/problem/A))
 
 ### Contest 266 - Codeforces Round #163 (Div. 2)
 - [266A - Stones on the Table](problemset/800/266A_stones-on-the-table.cpp) ([problem site](https://codeforces.com/contest/266/problem/A))
@@ -204,11 +213,17 @@
 ### Contest 50 - Codeforces Beta Round #47
 - [50A - Domino piling](problemset/800/50A_domino-piling.cpp) ([problem site](https://codeforces.com/contest/50/problem/A))
 
+### Contest 43 - Codeforces Beta Round #42 (Div. 2)
+- [43A - Football](problemset/1000/43A_football.cpp) ([problem site](https://codeforces.com/contest/43/problem/A))
+
 ### Contest 41 - Codeforces Beta Round #40 (Div. 2)
 - [41A - Translation](problemset/800/41A_translation.cpp) ([problem site](https://codeforces.com/contest/41/problem/A))
 
 ### Contest 25 - Codeforces Beta Round #25 (Div. 2 Only)
 - [25A - IQ test](problemset/1300/25A_iq-test.cpp) ([problem site](https://codeforces.com/contest/25/problem/A))
+
+### Contest 6 - Codeforces Beta Round #6 (Div. 2 Only)
+- [6A - Triangle](problemset/900/6A_triangle.cpp) ([problem site](https://codeforces.com/contest/6/problem/A))
 
 ### Contest 4 - Codeforces Beta Round #4 (Div. 2 Only)
 - [4A - Watermelon](problemset/800/4A_watermelon.cpp) ([problem site](https://codeforces.com/contest/4/problem/A))
