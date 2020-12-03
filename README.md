@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-85-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-73-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-88-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-75-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -10,6 +10,9 @@
 
 ### Contest 1440 - Codeforces Round #684 (Div. 2)
 - [1440A - Buy the String](problemset/800/1440A_buy-the-string.cpp) ([problem site](https://codeforces.com/contest/1440/problem/A))
+
+### Contest 1409 - Codeforces Round #667 (Div. 3)
+- [1409A - Yet Another Two Integers Problem](problemset/800/1409A_yet-another-two-integers-problem.cpp) ([problem site](https://codeforces.com/contest/1409/problem/A))
 
 ### Contest 1385 - Codeforces Round #656 (Div. 3)
 - [1385A - Three Pairwise Maximums](div3%23656_2020-07-17/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1385/problem/A))
@@ -30,6 +33,7 @@
 
 ### Contest 1335 - Codeforces Round #634 (Div. 3)
 - [1335A - Candies and Two Sisters](problemset/800/1335A_candies-and-two-sisters.cpp) ([problem site](https://codeforces.com/contest/1335/problem/A))
+- [1335B - Construct the String](problemset/900/1335B_construct-the-string.cpp) ([problem site](https://codeforces.com/contest/1335/problem/B))
 
 ### Contest 1328 - Codeforces Round #629 (Div. 3)
 - [1328A - Divisibility Problem](problemset/800/1328A_divisibility-problem.cpp) ([problem site](https://codeforces.com/contest/1328/problem/A))
@@ -158,6 +162,9 @@
 ### Contest 158 - VK Cup 2012 Qualification Round 1
 - [158A - Next Round](problemset/800/158A_next-round.cpp) ([problem site](https://codeforces.com/contest/158/problem/A))
 - [158B - Taxi](problemset/1100/158B_taxi.cpp) ([problem site](https://codeforces.com/contest/158/problem/B))
+
+### Contest 155 - Codeforces Round #109 (Div. 2)
+- [155A - I_love_%username%](problemset/800/155A_i_love_username.cpp) ([problem site](https://codeforces.com/contest/155/problem/A))
 
 ### Contest 148 - Codeforces Round #105 (Div. 2)
 - [148A - Insomnia cure](problemset/800/148A_insomnia-cure.cpp) ([problem site](https://codeforces.com/contest/148/problem/A))
