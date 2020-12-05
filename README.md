@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-88-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-75-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-90-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-76-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -25,6 +25,7 @@
 
 ### Contest 1368 - Codeforces Global Round 8
 - [1368A - C+=](problemset/800/1368A_c-plus-equal.cpp) ([problem site](https://codeforces.com/contest/1368/problem/A))
+- [1368B - Codeforces Subsequences](problemset/1500/1368B_codeforces-subsequences.cpp) ([problem site](https://codeforces.com/contest/1368/problem/B))
 
 ### Contest 1367 - Codeforces Round #650 (Div. 3)
 - [1367A - Short Substrings](div3%23650_2020-06-16/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1367/problem/A))
@@ -155,6 +156,9 @@
 
 ### Contest 200 - Codeforces Round #126 (Div. 2)
 - [200B - Drinks](problemset/800/200B_drinks.cpp) ([problem site](https://codeforces.com/contest/200/problem/B))
+
+### Contest 189 - Codeforces Round #119 (Div. 2)
+- [189A - Cut Ribbon](problemset/1300/189A_cut-ribbon.cpp) ([problem site](https://codeforces.com/contest/189/problem/A))
 
 ### Contest 160 - Codeforces Round #111 (Div. 2)
 - [160A - Twins](problemset/900/160A_twins.cpp) ([problem site](https://codeforces.com/contest/160/problem/A))
