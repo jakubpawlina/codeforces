@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-90-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-76-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-91-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-76-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -80,6 +80,7 @@
 
 ### Contest 520 - Codeforces Round #295 (Div. 2)
 - [520A - Pangram](problemset/800/520A_pangram.cpp) ([problem site](https://codeforces.com/contest/520/problem/A))
+- [520B - Two Buttons](problemset/1400/520B_two-butons.cpp) ([problem site](https://codeforces.com/contest/520/problem/B))
 
 ### Contest 492 - Codeforces Round #280 (Div. 2)
 - [492B - Vanya and Lanterns](problemset/1200/492B_vanya-and-lanterns.cpp) ([problem site](https://codeforces.com/contest/492/problem/B))
