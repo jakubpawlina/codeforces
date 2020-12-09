@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-91-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-76-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-92-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-77-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -74,6 +74,9 @@
 
 ### Contest 580 - Codeforces Round #321 (Div. 2)
 - [580A - Kefa and First Steps](problemset/900/580A_kefa-and-first-steps.cpp) ([problem site](https://codeforces.com/contest/580/problem/A))
+
+### Contest 550 - Codeforces Round #306 (Div. 2)
+- [550A - Two Substrings](problemset/1500/550A_two-substrings.cpp) ([problem site](https://codeforces.com/contest/550/problem/A))
 
 ### Contest 546 - Codeforces Round #304 (Div. 2)
 - [546A - Soldier and Bananas](problemset/800/546A_soldier-and-bananas.cpp) ([problem site](https://codeforces.com/contest/546/problem/A))
