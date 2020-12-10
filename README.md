@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-92-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-77-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-96-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-79-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -85,6 +85,9 @@
 - [520A - Pangram](problemset/800/520A_pangram.cpp) ([problem site](https://codeforces.com/contest/520/problem/A))
 - [520B - Two Buttons](problemset/1400/520B_two-butons.cpp) ([problem site](https://codeforces.com/contest/520/problem/B))
 
+### Contest 510 - Codeforces Round #290 (Div. 2)
+- [510A - Fox And Snake](problemset/800/510A_fox-and-snake.cpp) ([problem site](https://codeforces.com/contest/510/problem/A))
+
 ### Contest 492 - Codeforces Round #280 (Div. 2)
 - [492B - Vanya and Lanterns](problemset/1200/492B_vanya-and-lanterns.cpp) ([problem site](https://codeforces.com/contest/492/problem/B))
 
@@ -120,6 +123,7 @@
 
 ### Contest 339 - Codeforces Round #197 (Div. 2)
 - [339A - Helpful Maths](problemset/800/339A_helpful-maths.cpp) ([problem site](https://codeforces.com/contest/339/problem/A))
+- [339B - Xenia and Ringroad](problemset/1000/339B_xenia-and-ringroad.cpp) ([problem site](https://codeforces.com/contest/339/problem/B))
 
 ### Contest 337 - Codeforces Round #196 (Div. 2)
 - [337A - Puzzles](problemset/900/337A_puzzles.cpp) ([problem site](https://codeforces.com/contest/337/problem/A))
@@ -151,6 +155,10 @@
 
 ### Contest 231 - Codeforces Round #143 (Div. 2)
 - [231A - Team](problemset/800/231A_team.cpp) ([problem site](https://codeforces.com/contest/231/problem/A))
+
+### Contest 230 - Codeforces Round #142 (Div. 2)
+- [230A - Dragons](problemset/1000/230A_dragons.cpp) ([problem site](https://codeforces.com/contest/230/problem/A))
+- [230B - T-primes](problemset/1300/230B_t-primes.cpp) ([problem site](https://codeforces.com/contest/230/problem/B))
 
 ### Contest 228 - Codeforces Round #141 (Div. 2)
 - [228A - Is your horseshoe on the other hoof?](problemset/800/228A_is-your-horseshoe-on-the-other-hoof.cpp) ([problem site](https://codeforces.com/contest/228/problem/A))
