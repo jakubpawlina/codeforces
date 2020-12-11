@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-100-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-81-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-102-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-82-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -52,6 +52,10 @@
 
 ### Contest 1077 - Codeforces Round #521 (Div. 3)
 - [1077A - Frog Jumping](problemset/800/1077A_frog-jumping.cpp) ([problem site](https://codeforces.com/contest/1077/problem/A))
+
+### Contest 1056 - Mail.Ru Cup 2018 Round 3
+- [1056A - Determine Line](problemset/800/1056A_determine-line.cpp) ([problem site](https://codeforces.com/contest/1056/problem/A))
+- [1056D - Decorate Apple Tree](problemset/1600/1056D_decorate-apple-tree.cpp) ([problem site](https://codeforces.com/contest/1056/problem/D))
 
 ### Contest 1030 - Technocup 2019 - Elimination Round 1
 - [1030A - In Search of an Easy Problem](problemset/800/1030A_in-search-of-an-easy-problem.cpp) ([problem site](https://codeforces.com/contest/1030/problem/A))
