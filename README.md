@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-96-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-79-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-100-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-81-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
@@ -31,6 +31,14 @@
 - [1367A - Short Substrings](div3%23650_2020-06-16/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1367/problem/A))
 - [1367B - Even Array](div3%23650_2020-06-16/Problem-B.cpp) ([problem site](https://codeforces.com/contest/1367/problem/B))
 - [1367C - Social Distance](problemset/1300/1367C_social-distance.cpp) ([problem site](https://codeforces.com/contest/1367/problem/C))
+
+### Contest 1352 - Codeforces Round #640 (Div. 4)
+- [1352A - Sum of Round Numbers](problemset/800/1352A_sum-of-round-numbers.cpp) ([problem site](https://codeforces.com/contest/1352/problem/A))
+- [1352C - K-th Not Divisible by n](problemset/1200/1352C_k-th-not-divisible-by-n.cpp) ([problem site](https://codeforces.com/contest/1352/problem/C))
+
+### Contest 1343 - Codeforces Round #636 (Div. 3)
+- [1343A - Candies](problemset/900/1343A_candies.cpp) ([problem site](https://codeforces.com/contest/1343/problem/A))
+- [1343B - Balanced Array](problemset/800/1343B_balanced-array.cpp) ([problem site](https://codeforces.com/contest/1343/problem/B))
 
 ### Contest 1335 - Codeforces Round #634 (Div. 3)
 - [1335A - Candies and Two Sisters](problemset/800/1335A_candies-and-two-sisters.cpp) ([problem site](https://codeforces.com/contest/1335/problem/A))
