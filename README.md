@@ -1,6 +1,11 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-102-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-82-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-105-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-83-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+
+### Contest 1462 - Codeforces Round #690 (Div. 3)
+- [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
+- [1463B - Last Year's Substring](div3%23690_2020-12-15/Problem-B.cpp) ([problem site](https://codeforces.com/contest/1462/problem/B))
+- [1462C - Unique Number](div3%23690_2020-12-15/Problem-C.cpp) ([problem site](https://codeforces.com/contest/1462/problem/C))
 
 ### Contest 1454 - Codeforces Round #686 (Div. 3)
 - [1454A - Special Permutation](div3%23686_2020-11-24/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1454/problem/A))
