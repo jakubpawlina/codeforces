@@ -16,6 +16,9 @@
 ### Contest 1440 - Codeforces Round #684 (Div. 2)
 - [1440A - Buy the String](problemset/800/1440A_buy-the-string.cpp) ([problem site](https://codeforces.com/contest/1440/problem/A))
 
+### Contest 1426 - Codeforces Round #674 (Div. 3)
+- [1426A - Floor Number](problemset/800/1426A_floor-number.cpp) ([problem site](https://codeforces.com/contest/1426/problem/A))
+
 ### Contest 1409 - Codeforces Round #667 (Div. 3)
 - [1409A - Yet Another Two Integers Problem](problemset/800/1409A_yet-another-two-integers-problem.cpp) ([problem site](https://codeforces.com/contest/1409/problem/A))
 
