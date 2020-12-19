@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-105-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-83-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-107-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-85-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -21,6 +21,9 @@
 
 ### Contest 1409 - Codeforces Round #667 (Div. 3)
 - [1409A - Yet Another Two Integers Problem](problemset/800/1409A_yet-another-two-integers-problem.cpp) ([problem site](https://codeforces.com/contest/1409/problem/A))
+
+### Contest 1399 - Codeforces Round #661 (Div. 3)
+- [1399A - Remove Smallest](problemset/800/1399A_remove-smallest.cpp) ([problem site](https://codeforces.com/contest/1399/problem/A))
 
 ### Contest 1385 - Codeforces Round #656 (Div. 3)
 - [1385A - Three Pairwise Maximums](div3%23656_2020-07-17/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1385/problem/A))
