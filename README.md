@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-107-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-85-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-115-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-93-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -58,6 +58,9 @@
 ### Contest 1328 - Codeforces Round #629 (Div. 3)
 - [1328A - Divisibility Problem](problemset/800/1328A_divisibility-problem.cpp) ([problem site](https://codeforces.com/contest/1328/problem/A))
 
+### Contest 1154 - Codeforces Round #552 (Div. 3)
+- [1154A - Restoring Three Numbers](problemset/800/1154A_restoring-three-numbers.cpp) ([problem site](https://codeforces.com/contest/1154/problem/A))
+
 ### Contest 1152 - Codeforces Round #554 (Div. 2)
 - [1152C - Neko does Maths](problemset/1800/1152C_neko-does-maths.cpp) ([problem site](https://codeforces.com/contest/1152/problem/C))
 
@@ -83,8 +86,17 @@
 ### Contest 785 - Codeforces Round #404 (Div. 2)
 - [785A - Anton and Polyhedrons](problemset/800/785A_anton-and-polyhedrons.cpp) ([problem site](https://codeforces.com/contest/785/problem/A))
 
+### Contest 750 - Good Bye 2016
+- [750A - New Year and Hurry](problemset/800/750A_new-year-and-hurry.cpp) ([problem site](https://codeforces.com/contest/750/problem/A))
+
 ### Contest 734 - Codeforces Round #379 (Div. 2)
 - [734A - Anton and Danik](problemset/800/734A_anton-and-danik.cpp) ([problem site](https://codeforces.com/contest/734/problem/A))
+
+### Contest 732 - Codeforces Round #377 (Div. 2)
+- [732A - Buy a Shovel](problemset/800/732A_buy-a-shovel.cpp) ([problem site](https://codeforces.com/contest/732/problem/A))
+
+### Contest 723 - Codeforces Round #375 (Div. 2)
+- [723A - The New Year: Meeting Friends](problemset/800/723A_the-new-year-meeting-friends.cpp) ([problem site](https://codeforces.com/contest/723/problem/A))
 
 ### Contest 705 - Codeforces Round #366 (Div. 2)
 - [705A - Hulk](problemset/800/705A_hulk.cpp) ([problem site](https://codeforces.com/contest/705/problem/A))
@@ -94,6 +106,9 @@
 
 ### Contest 617 - Codeforces Round #340 (Div. 2)
 - [617A - Elephant](problemset/800/617A_elephant.cpp) ([problem site](https://codeforces.com/contest/617/problem/A))
+
+### Contest 581 - Codeforces Round #322 (Div. 2)
+- [581A - Vasya the Hipster](problemset/800/581A_vasya-the-hipster.cpp) ([problem site](https://codeforces.com/contest/581/problem/A))
 
 ### Contest 580 - Codeforces Round #321 (Div. 2)
 - [580A - Kefa and First Steps](problemset/900/580A_kefa-and-first-steps.cpp) ([problem site](https://codeforces.com/contest/580/problem/A))
@@ -120,8 +135,11 @@
 ### Contest 479 - Codeforces Round #274 (Div. 2)
 - [479A - Expression](problemset/1000/479A_expression.cpp) ([problem site](https://codeforces.com/contest/479/problem/A))
 
+### Contest 472 - Codeforces Round #270
+- [472A - ](problemset/800/469A_i-wanna-be-the-guy.cpp) ([problem site](https://codeforces.com/contest/469/problem/A))
+
 ### Contest 469 - Codeforces Round #268 (Div. 2)
-- [469A - I Wanna Be the Guy](problemset/800/469A_i-wanna-be-the-guy.cpp) ([problem site](https://codeforces.com/contest/469/problem/A))
+- [469A - Design Tutorial: Learn from Math](problemset/800/472A_design-tutorial-learn-from-math.cpp) ([problem site](https://codeforces.com/contest/472/problem/A))
 
 ### Contest 467 - Codeforces Round #267 (Div. 2)
 - [467A - George and Accommodation](problemset/800/467A_george-and-accommodation.cpp) ([problem site](https://codeforces.com/contest/467/problem/A))
@@ -129,11 +147,17 @@
 ### Contest 466 - Codeforces Round #266 (Div. 2)
 - [466A - Cheap Travel](problemset/1200/466A_cheap-travel.cpp) ([problem site](https://codeforces.com/contest/466/problem/A))
 
+### Contest 455 - Codeforces Round #260 (Div. 1)
+- [455A - Boredom](problemset/1500/455A_boredom.cpp) ([problem site](https://codeforces.com/contest/455/problem/A))
+
 ### Contest 451 - Codeforces Round #258 (Div. 2)
 - [451A - Game With Sticks](problemset/900/451A_game-with-sticks.cpp) ([problem site](https://codeforces.com/contest/451/problem/A))
 
 ### Contest 443 - Codeforces Round #253 (Div. 2)
 - [443A - Anton and Letters](problemset/800/443A_anton-and-letters.cpp) ([problem site](https://codeforces.com/contest/443/problem/A))
+
+### Contest 427 - Codeforces Round #244 (Div. 2)
+- [427A - Police Recruits](problemset/800/427A_police-recruits.cpp) ([problem site](https://codeforces.com/contest/427/problem/A))
 
 ### Contest 405 - Codeforces Round #238 (Div. 2)
 - [405A - Gravity Flip](problemset/900/405A_gravity-flip.cpp) ([problem site](https://codeforces.com/contest/405/problem/A))
