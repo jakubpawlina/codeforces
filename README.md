@@ -136,10 +136,10 @@
 - [479A - Expression](problemset/1000/479A_expression.cpp) ([problem site](https://codeforces.com/contest/479/problem/A))
 
 ### Contest 472 - Codeforces Round #270
-- [472A - ](problemset/800/469A_i-wanna-be-the-guy.cpp) ([problem site](https://codeforces.com/contest/469/problem/A))
+- [472A - Design Tutorial: Learn from Math](problemset/800/472A_design-tutorial-learn-from-math.cpp) ([problem site](https://codeforces.com/contest/472/problem/A))
 
 ### Contest 469 - Codeforces Round #268 (Div. 2)
-- [469A - Design Tutorial: Learn from Math](problemset/800/472A_design-tutorial-learn-from-math.cpp) ([problem site](https://codeforces.com/contest/472/problem/A))
+- [469A - I Wanna Be the Guy](problemset/800/469A_i-wanna-be-the-guy.cpp) ([problem site](https://codeforces.com/contest/469/problem/A))
 
 ### Contest 467 - Codeforces Round #267 (Div. 2)
 - [467A - George and Accommodation](problemset/800/467A_george-and-accommodation.cpp) ([problem site](https://codeforces.com/contest/467/problem/A))
