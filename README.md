@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-115-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-93-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-116-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-94-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -125,6 +125,9 @@
 
 ### Contest 510 - Codeforces Round #290 (Div. 2)
 - [510A - Fox And Snake](problemset/800/510A_fox-and-snake.cpp) ([problem site](https://codeforces.com/contest/510/problem/A))
+
+### Contest 500 - Good Bye 2014
+- [500A - New Year Transportation](problemset/1000/500A_new-year-transportation.cpp) ([problem site](https://codeforces.com/contest/500/problem/A))
 
 ### Contest 492 - Codeforces Round #280 (Div. 2)
 - [492B - Vanya and Lanterns](problemset/1200/492B_vanya-and-lanterns.cpp) ([problem site](https://codeforces.com/contest/492/problem/B))
