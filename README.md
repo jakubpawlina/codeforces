@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-116-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-94-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-117-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-95-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -63,6 +63,9 @@
 
 ### Contest 1152 - Codeforces Round #554 (Div. 2)
 - [1152C - Neko does Maths](problemset/1800/1152C_neko-does-maths.cpp) ([problem site](https://codeforces.com/contest/1152/problem/C))
+
+### Contest 1091 - Good Bye 2018
+- [1091A - New Year and the Christmas Ornament](problemset/800/1091A_new-year-and-the-christmas-ornament.cpp) ([problem site](https://codeforces.com/contest/1091/problem/A))
 
 ### Contest 1077 - Codeforces Round #521 (Div. 3)
 - [1077A - Frog Jumping](problemset/800/1077A_frog-jumping.cpp) ([problem site](https://codeforces.com/contest/1077/problem/A))
