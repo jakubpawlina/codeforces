@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-117-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-95-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-118-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-96-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -82,6 +82,9 @@
 
 ### Contest 977 - Codeforces Round #479 (Div. 3)
 - [977A - Wrong Subtraction](problemset/800/977A_wrong-subtraction.cpp) ([problem site](https://codeforces.com/contest/977/problem/A))
+
+### Contest 913 - Hello 2018
+- [913B - Christmas Spruce](problemset/1200/913B_christmas_spruce.cpp) ([problem site](https://codeforces.com/contest/913/problem/B))
 
 ### Contest 791 - Codeforces Round #405 (rated, Div. 2, based on VK Cup 2017 Round 1)
 - [791A - Bear and Big Brother](problemset/800/791A_bear-and-big-brother.cpp) ([problem site](https://codeforces.com/contest/791/problem/A))
