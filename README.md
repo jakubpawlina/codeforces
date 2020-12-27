@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-118-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-96-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-120-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-98-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -91,6 +91,9 @@
 
 ### Contest 785 - Codeforces Round #404 (Div. 2)
 - [785A - Anton and Polyhedrons](problemset/800/785A_anton-and-polyhedrons.cpp) ([problem site](https://codeforces.com/contest/785/problem/A))
+
+### Contest 758 - Codeforces Round #392 (Div. 2)
+- [758A - Choliday Of Equality](problemset/800/758A_choliday-of-equality.cpp) ([problem site](https://codeforces.com/contest/758/problem/A))
 
 ### Contest 750 - Good Bye 2016
 - [750A - New Year and Hurry](problemset/800/750A_new-year-and-hurry.cpp) ([problem site](https://codeforces.com/contest/750/problem/A))
@@ -186,6 +189,9 @@
 
 ### Contest 318 - Codeforces Round #188 (Div. 2)
 - [318A - Even Odds](problemset/900/318A_even-odds.cpp) ([problem site](https://codeforces.com/contest/318/problem/A))
+
+### Contest 313 - Codeforces Round #186 (Div. 2)
+- [313A - Ilya and Bank Account](problemset/900/313A_ilya-and-bank-account.cpp) ([problem site](https://codeforces.com/contest/313/problem/A))
 
 ### Contest 282 - Codeforces Round #173 (Div. 2)
 - [282A - Bit++](problemset/800/282A_bit-plus-plus.cpp) ([problem site](https://codeforces.com/contest/282/problem/A))
