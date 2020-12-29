@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-120-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-98-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-122-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-100-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -42,6 +42,9 @@
 - [1367A - Short Substrings](div3%23650_2020-06-16/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1367/problem/A))
 - [1367B - Even Array](div3%23650_2020-06-16/Problem-B.cpp) ([problem site](https://codeforces.com/contest/1367/problem/B))
 - [1367C - Social Distance](problemset/1300/1367C_social-distance.cpp) ([problem site](https://codeforces.com/contest/1367/problem/C))
+
+### Contest 1353 - Codeforces Round #642 (Div. 3)
+- [1353B - Two Arrays And Swaps](problemset/800/1353B_two-arrays-and-swaps.cpp) ([problem site](https://codeforces.com/contest/1353/problem/B))
 
 ### Contest 1352 - Codeforces Round #640 (Div. 4)
 - [1352A - Sum of Round Numbers](problemset/800/1352A_sum-of-round-numbers.cpp) ([problem site](https://codeforces.com/contest/1352/problem/A))
@@ -167,6 +170,9 @@
 
 ### Contest 443 - Codeforces Round #253 (Div. 2)
 - [443A - Anton and Letters](problemset/800/443A_anton-and-letters.cpp) ([problem site](https://codeforces.com/contest/443/problem/A))
+
+### Contest 432 - Codeforces Round #246 (Div. 2)
+- [432A - CHoosing Teams](problemset/800/432A_choosing-teams.cpp) ([problem site](https://codeforces.com/contest/432/problem/A))
 
 ### Contest 427 - Codeforces Round #244 (Div. 2)
 - [427A - Police Recruits](problemset/800/427A_police-recruits.cpp) ([problem site](https://codeforces.com/contest/427/problem/A))
