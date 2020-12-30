@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-122-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-100-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-128-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-103-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -24,12 +24,16 @@
 
 ### Contest 1399 - Codeforces Round #661 (Div. 3)
 - [1399A - Remove Smallest](problemset/800/1399A_remove-smallest.cpp) ([problem site](https://codeforces.com/contest/1399/problem/A))
+- [1399B - Gifts Fixing](problemset/800/1399B_gifts-fixing.cpp) ([problem site](https://codeforces.com/contest/1399/problem/B))
 
 ### Contest 1385 - Codeforces Round #656 (Div. 3)
 - [1385A - Three Pairwise Maximums](div3%23656_2020-07-17/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1385/problem/A))
 - [1385B - Restore the Permutation by Merger](div3%23656_2020-07-17/Problem-B.cpp) ([problem site](https://codeforces.com/contest/1385/problem/B))
 - [1385C - Make It Good](div3%23656_2020-07-17/Problem-C.cpp) ([problem site](https://codeforces.com/contest/1385/problem/C))
 - [1385D - a-Good String](problemset/1500/1385D_a-good-string.cpp) ([problem site](https://codeforces.com/contest/1385/problem/D))
+
+### Contest 1374 - Codeforces Round #653 (Div. 3)
+- [1374A - Required Remainder](problemset/800/1374A_required-remainder.cpp) ([problem site](https://codeforces.com/contest/1374/problem/A))
 
 ### Contest 1370 - Codeforces Round #651 (Div. 2)
 - [1370A - Maximum GCD](problemset/800/1370A_maximum-gcd.cpp) ([problem site](https://codeforces.com/contest/1370/problem/A))
@@ -43,7 +47,12 @@
 - [1367B - Even Array](div3%23650_2020-06-16/Problem-B.cpp) ([problem site](https://codeforces.com/contest/1367/problem/B))
 - [1367C - Social Distance](problemset/1300/1367C_social-distance.cpp) ([problem site](https://codeforces.com/contest/1367/problem/C))
 
+### Contest 1360 - Codeforces Round #644 (Div. 3)
+- [1360A - Minimal Square](problemset/800/1360A_minimal-square.cpp) ([problem site](https://codeforces.com/contest/1360/problem/A))
+- [1360B - Honest Coach](problemset/800/1360B_honest-coach.cpp) ([problem site](https://codeforces.com/contest/1360/problem/B))
+
 ### Contest 1353 - Codeforces Round #642 (Div. 3)
+- [1353A - Most Unstable Array](problemset/800/1353A_most-unstable-array.cpp) ([problem site](https://codeforces.com/contest/1353/problem/A))
 - [1353B - Two Arrays And Swaps](problemset/800/1353B_two-arrays-and-swaps.cpp) ([problem site](https://codeforces.com/contest/1353/problem/B))
 
 ### Contest 1352 - Codeforces Round #640 (Div. 4)
@@ -161,6 +170,9 @@
 
 ### Contest 466 - Codeforces Round #266 (Div. 2)
 - [466A - Cheap Travel](problemset/1200/466A_cheap-travel.cpp) ([problem site](https://codeforces.com/contest/466/problem/A))
+
+### Contest 460 - Codeforces Round #262 (Div. 2)
+- [460A - Vasya and Socks](problemset/800/460A_vasya-and-socks.cpp) ([problem site](https://codeforces.com/contest/460/problem/A))
 
 ### Contest 455 - Codeforces Round #260 (Div. 1)
 - [455A - Boredom](problemset/1500/455A_boredom.cpp) ([problem site](https://codeforces.com/contest/455/problem/A))
