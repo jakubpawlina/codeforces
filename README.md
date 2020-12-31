@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-128-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-103-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-130-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-105-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -69,6 +69,9 @@
 
 ### Contest 1328 - Codeforces Round #629 (Div. 3)
 - [1328A - Divisibility Problem](problemset/800/1328A_divisibility-problem.cpp) ([problem site](https://codeforces.com/contest/1328/problem/A))
+
+### Contest 1283 - Codeforces Round #611 (Div. 3)
+- [1283A - Minutes Before the New Year](problemset/800/1283A_minutes-before-the-new-year.cpp) ([problem site](https://codeforces.com/contest/1283/problem/A))
 
 ### Contest 1154 - Codeforces Round #552 (Div. 3)
 - [1154A - Restoring Three Numbers](problemset/800/1154A_restoring-three-numbers.cpp) ([problem site](https://codeforces.com/contest/1154/problem/A))
@@ -191,6 +194,9 @@
 
 ### Contest 405 - Codeforces Round #238 (Div. 2)
 - [405A - Gravity Flip](problemset/900/405A_gravity-flip.cpp) ([problem site](https://codeforces.com/contest/405/problem/A))
+
+### Contest 379 - Good Bye 2013
+- [379A - New Year Candles](problemset/800/379A_new-year-candles.cpp) ([problem site](https://codeforces.com/contest/379/problem/A))
 
 ### Contest 344 - Codeforces Round #200 (Div. 2)
 - [344A - Magnets](problemset/800/344A_magnets.cpp) ([problem site](https://codeforces.com/contest/344/problem/A))
