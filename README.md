@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-130-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-105-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-136-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-109-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -119,11 +119,17 @@
 ### Contest 732 - Codeforces Round #377 (Div. 2)
 - [732A - Buy a Shovel](problemset/800/732A_buy-a-shovel.cpp) ([problem site](https://codeforces.com/contest/732/problem/A))
 
+### Contest 727 - Technocup 2017 - Elimination Round 1 (Unofficially Open for Everyone, Rated for Div. 2)
+- [727A - Transformation: from A to B](problemset/1000/727A_transformation-from-a-to-b.cpp) ([problem site](https://codeforces.com/contest/727/problem/A))
+
 ### Contest 723 - Codeforces Round #375 (Div. 2)
 - [723A - The New Year: Meeting Friends](problemset/800/723A_the-new-year-meeting-friends.cpp) ([problem site](https://codeforces.com/contest/723/problem/A))
 
 ### Contest 705 - Codeforces Round #366 (Div. 2)
 - [705A - Hulk](problemset/800/705A_hulk.cpp) ([problem site](https://codeforces.com/contest/705/problem/A))
+
+### Contest 703 - Codeforces Round #365 (Div. 2)
+- [703A - Mishka and Game](problemset/800/703A_mishka-and-game.cpp) ([problem site](https://codeforces.com/contest/703/problem/A))
 
 ### Contest 677 - Codeforces Round #355 (Div. 2)
 - [677A - Vanya and Fence](problemset/800/677A_vanya-and-fence.cpp) ([problem site](https://codeforces.com/contest/677/problem/A))
@@ -136,6 +142,7 @@
 
 ### Contest 580 - Codeforces Round #321 (Div. 2)
 - [580A - Kefa and First Steps](problemset/900/580A_kefa-and-first-steps.cpp) ([problem site](https://codeforces.com/contest/580/problem/A))
+- [580C - Kefa and Park](problemset/1500/580C_kefa-and-park.cpp) ([problem site](https://codeforces.com/contest/580/problem/C))
 
 ### Contest 550 - Codeforces Round #306 (Div. 2)
 - [550A - Two Substrings](problemset/1500/550A_two-substrings.cpp) ([problem site](https://codeforces.com/contest/550/problem/A))
@@ -191,6 +198,9 @@
 
 ### Contest 427 - Codeforces Round #244 (Div. 2)
 - [427A - Police Recruits](problemset/800/427A_police-recruits.cpp) ([problem site](https://codeforces.com/contest/427/problem/A))
+
+### Contest 409 - Codeforces Round #279 (Div. 2)
+- [409A - Team Olympiad](problemset/800/490A_team-olympiad.cpp) ([problem site](https://codeforces.com/contest/409/problem/A))
 
 ### Contest 405 - Codeforces Round #238 (Div. 2)
 - [405A - Gravity Flip](problemset/900/405A_gravity-flip.cpp) ([problem site](https://codeforces.com/contest/405/problem/A))
@@ -327,6 +337,10 @@
 
 ### Contest 41 - Codeforces Beta Round #40 (Div. 2)
 - [41A - Translation](problemset/800/41A_translation.cpp) ([problem site](https://codeforces.com/contest/41/problem/A))
+
+### Contest 27 - Codeforces Beta Round #27 (Codeforces format, Div. 2)
+- [27A - Next Test](problemset/1200/27A_next-test.cpp) ([problem site](https://codeforces.com/contest/27/problem/A))
+- [27B - Tournament](problemset/1300/27B_tournament.cpp) ([problem site](https://codeforces.com/contest/27/problem/B))
 
 ### Contest 25 - Codeforces Beta Round #25 (Div. 2 Only)
 - [25A - IQ test](problemset/1300/25A_iq-test.cpp) ([problem site](https://codeforces.com/contest/25/problem/A))
