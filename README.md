@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-136-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-109-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-140-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-113-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -18,6 +18,9 @@
 
 ### Contest 1426 - Codeforces Round #674 (Div. 3)
 - [1426A - Floor Number](problemset/800/1426A_floor-number.cpp) ([problem site](https://codeforces.com/contest/1426/problem/A))
+
+### Contest 1421 - Codeforces Round #676 (Div. 2)
+- [1421A - XORwice](problemset/800/1421A_xorwice.cpp) ([problem site](https://codeforces.com/contest/1421/problem/A))
 
 ### Contest 1409 - Codeforces Round #667 (Div. 3)
 - [1409A - Yet Another Two Integers Problem](problemset/800/1409A_yet-another-two-integers-problem.cpp) ([problem site](https://codeforces.com/contest/1409/problem/A))
@@ -73,6 +76,9 @@
 ### Contest 1283 - Codeforces Round #611 (Div. 3)
 - [1283A - Minutes Before the New Year](problemset/800/1283A_minutes-before-the-new-year.cpp) ([problem site](https://codeforces.com/contest/1283/problem/A))
 
+### Contest 1234 - Codeforces Round #590 (Div. 3)
+- [1234A - Equalize Prices Again](problemset/800/1234A_equalize-prices-again.cpp) ([problem site](https://codeforces.com/contest/1234/problem/A))
+
 ### Contest 1154 - Codeforces Round #552 (Div. 3)
 - [1154A - Restoring Three Numbers](problemset/800/1154A_restoring-three-numbers.cpp) ([problem site](https://codeforces.com/contest/1154/problem/A))
 
@@ -113,6 +119,9 @@
 ### Contest 750 - Good Bye 2016
 - [750A - New Year and Hurry](problemset/800/750A_new-year-and-hurry.cpp) ([problem site](https://codeforces.com/contest/750/problem/A))
 
+### Contest 749 - Codeforces Round #388 (Div. 2)
+- [749A - Bachgold Problem](problemset/800/749A_bachgold-problem.cpp) ([problem site](https://codeforces.com/contest/749/problem/A))
+
 ### Contest 734 - Codeforces Round #379 (Div. 2)
 - [734A - Anton and Danik](problemset/800/734A_anton-and-danik.cpp) ([problem site](https://codeforces.com/contest/734/problem/A))
 
@@ -143,6 +152,9 @@
 ### Contest 580 - Codeforces Round #321 (Div. 2)
 - [580A - Kefa and First Steps](problemset/900/580A_kefa-and-first-steps.cpp) ([problem site](https://codeforces.com/contest/580/problem/A))
 - [580C - Kefa and Park](problemset/1500/580C_kefa-and-park.cpp) ([problem site](https://codeforces.com/contest/580/problem/C))
+
+### Contest 579 - Codeforces Round #320 (Div. 2) [Bayan Thanks-Round]
+- [579A - Raising Bacteria](problemset/1000/579A_raising-bacteria.cpp) ([problem site](https://codeforces.com/contest/579/problem/A))
 
 ### Contest 550 - Codeforces Round #306 (Div. 2)
 - [550A - Two Substrings](problemset/1500/550A_two-substrings.cpp) ([problem site](https://codeforces.com/contest/550/problem/A))
