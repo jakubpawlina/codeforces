@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-140-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-113-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-142-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-115-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -134,6 +134,9 @@
 ### Contest 723 - Codeforces Round #375 (Div. 2)
 - [723A - The New Year: Meeting Friends](problemset/800/723A_the-new-year-meeting-friends.cpp) ([problem site](https://codeforces.com/contest/723/problem/A))
 
+### Contest 707 - Codeforces Round #368 (Div. 2)
+- [707A - Brain's Photos](problemset/800/707A_brains-photos.cpp) ([problem site](https://codeforces.com/contest/707/problem/A))
+
 ### Contest 705 - Codeforces Round #366 (Div. 2)
 - [705A - Hulk](problemset/800/705A_hulk.cpp) ([problem site](https://codeforces.com/contest/705/problem/A))
 
@@ -168,6 +171,9 @@
 
 ### Contest 510 - Codeforces Round #290 (Div. 2)
 - [510A - Fox And Snake](problemset/800/510A_fox-and-snake.cpp) ([problem site](https://codeforces.com/contest/510/problem/A))
+
+### Contest 509 - Codeforces Round #289 (Div. 2, ACM ICPC Rules)
+- [509A - Maximum in Table](problemset/800/509A_maximum-in-table.cpp) ([problem site](https://codeforces.com/contest/509/problem/A))
 
 ### Contest 500 - Good Bye 2014
 - [500A - New Year Transportation](problemset/1000/500A_new-year-transportation.cpp) ([problem site](https://codeforces.com/contest/500/problem/A))
