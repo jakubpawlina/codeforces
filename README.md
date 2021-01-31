@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-144-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-116-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-145-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-117-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1475 - Codeforces Round #697 (Div. 3)
 - [1475A - Odd Divisor](problemset/900/1475A_odd-divisor.cpp) ([problem site](https://codeforces.com/contest/1475/problem/A))
@@ -149,6 +149,9 @@
 
 ### Contest 677 - Codeforces Round #355 (Div. 2)
 - [677A - Vanya and Fence](problemset/800/677A_vanya-and-fence.cpp) ([problem site](https://codeforces.com/contest/677/problem/A))
+
+### Contest 630 - Experimental Educational Round: VolBIT Formulas Blitz
+- [630A - Again Twenty Five!](problemset/800/630A_again-twenty-five.cpp) ([problem site](https://codeforces.com/contest/630/problem/A))
 
 ### Contest 617 - Codeforces Round #340 (Div. 2)
 - [617A - Elephant](problemset/800/617A_elephant.cpp) ([problem site](https://codeforces.com/contest/617/problem/A))
