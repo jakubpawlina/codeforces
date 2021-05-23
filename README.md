@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-145-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-117-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-147-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-119-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1475 - Codeforces Round #697 (Div. 3)
 - [1475A - Odd Divisor](problemset/900/1475A_odd-divisor.cpp) ([problem site](https://codeforces.com/contest/1475/problem/A))
@@ -76,6 +76,9 @@
 
 ### Contest 1328 - Codeforces Round #629 (Div. 3)
 - [1328A - Divisibility Problem](problemset/800/1328A_divisibility-problem.cpp) ([problem site](https://codeforces.com/contest/1328/problem/A))
+
+### Contest 1327 - Educational Codeforces Round 84 (Rated for Div. 2)
+- [1327A - Sum of Odd Integers](problemset/1100/1327A_sum-of-odd-integers.cpp) ([problem site](https://codeforces.com/contest/1327/problem/A))
 
 ### Contest 1283 - Codeforces Round #611 (Div. 3)
 - [1283A - Minutes Before the New Year](problemset/800/1283A_minutes-before-the-new-year.cpp) ([problem site](https://codeforces.com/contest/1283/problem/A))
@@ -260,6 +263,9 @@
 
 ### Contest 271 - Codeforces Round #166 (Div. 2)
 - [271A - Beautiful Year](problemset/800/271A_beautiful-year.cpp) ([problem site](https://codeforces.com/contest/271/problem/A))
+
+### Contest 270 - Codeforces Round #165 (Div. 2)
+- [270A - Fancy Fence](problemset/1100/270A_fancy-fence.cpp) ([problem site](https://codeforces.com/contest/270/problem/A))
 
 ### Contest 268 - Codeforces Round #164 (Div. 2)
 - [268A - Games](problemset/800/268A_games.cpp) ([problem site](https://codeforces.com/contest/268/problem/A))
