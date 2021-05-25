@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-147-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-119-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-150-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-122-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1475 - Codeforces Round #697 (Div. 3)
 - [1475A - Odd Divisor](problemset/900/1475A_odd-divisor.cpp) ([problem site](https://codeforces.com/contest/1475/problem/A))
@@ -79,6 +79,9 @@
 
 ### Contest 1327 - Educational Codeforces Round 84 (Rated for Div. 2)
 - [1327A - Sum of Odd Integers](problemset/1100/1327A_sum-of-odd-integers.cpp) ([problem site](https://codeforces.com/contest/1327/problem/A))
+
+### Contest 1294 - Codeforces Round #615 (Div. 3)
+- [1294A - Collecting Coins](problemset/800/1294A_collecting-coins.cpp) ([problem site](https://codeforces.com/contest/1294/problem/A))
 
 ### Contest 1283 - Codeforces Round #611 (Div. 3)
 - [1283A - Minutes Before the New Year](problemset/800/1283A_minutes-before-the-new-year.cpp) ([problem site](https://codeforces.com/contest/1283/problem/A))
@@ -196,6 +199,9 @@
 
 ### Contest 479 - Codeforces Round #274 (Div. 2)
 - [479A - Expression](problemset/1000/479A_expression.cpp) ([problem site](https://codeforces.com/contest/479/problem/A))
+
+### Contest 474 - Codeforces Round #271 (Div. 2)
+- [474A - Keyboard](problemset/900/474A_keyboard.cpp) ([problem site](https://codeforces.com/contest/474/problem/A))
 
 ### Contest 472 - Codeforces Round #270
 - [472A - Design Tutorial: Learn from Math](problemset/800/472A_design-tutorial-learn-from-math.cpp) ([problem site](https://codeforces.com/contest/472/problem/A))
@@ -368,6 +374,9 @@
 
 ### Contest 41 - Codeforces Beta Round #40 (Div. 2)
 - [41A - Translation](problemset/800/41A_translation.cpp) ([problem site](https://codeforces.com/contest/41/problem/A))
+
+### Contest 34 - Codeforces Beta Round #34 (Div. 2)
+- [34B - Sale](problemset/900/34B_sale.cpp) ([problem site](https://codeforces.com/contest/34/problem/B))
 
 ### Contest 27 - Codeforces Beta Round #27 (Codeforces format, Div. 2)
 - [27A - Next Test](problemset/1200/27A_next-test.cpp) ([problem site](https://codeforces.com/contest/27/problem/A))
