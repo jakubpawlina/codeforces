@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-150-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-122-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-154-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-125-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1475 - Codeforces Round #697 (Div. 3)
 - [1475A - Odd Divisor](problemset/900/1475A_odd-divisor.cpp) ([problem site](https://codeforces.com/contest/1475/problem/A))
@@ -65,6 +65,9 @@
 ### Contest 1352 - Codeforces Round #640 (Div. 4)
 - [1352A - Sum of Round Numbers](problemset/800/1352A_sum-of-round-numbers.cpp) ([problem site](https://codeforces.com/contest/1352/problem/A))
 - [1352C - K-th Not Divisible by n](problemset/1200/1352C_k-th-not-divisible-by-n.cpp) ([problem site](https://codeforces.com/contest/1352/problem/C))
+
+### Contest 1348 - Codeforces Round #638 (Div. 2)
+- [1348A - Phoenix and Balance](problemset/800/1348A_phoenix-and-balance.cpp) ([problem site](https://codeforces.com/contest/1348/problem/A))
 
 ### Contest 1343 - Codeforces Round #636 (Div. 3)
 - [1343A - Candies](problemset/900/1343A_candies.cpp) ([problem site](https://codeforces.com/contest/1343/problem/A))
@@ -147,6 +150,9 @@
 ### Contest 707 - Codeforces Round #368 (Div. 2)
 - [707A - Brain's Photos](problemset/800/707A_brains-photos.cpp) ([problem site](https://codeforces.com/contest/707/problem/A))
 
+### Contest 706 - Codeforces Round #367 (Div. 2)
+- [706B - Interesting drink](problemset/1100/706B_interesting-drink.cpp) ([problem site](https://codeforces.com/contest/706/problem/B))
+
 ### Contest 705 - Codeforces Round #366 (Div. 2)
 - [705A - Hulk](problemset/800/705A_hulk.cpp) ([problem site](https://codeforces.com/contest/705/problem/A))
 
@@ -193,6 +199,10 @@
 
 ### Contest 492 - Codeforces Round #280 (Div. 2)
 - [492B - Vanya and Lanterns](problemset/1200/492B_vanya-and-lanterns.cpp) ([problem site](https://codeforces.com/contest/492/problem/B))
+
+### Contest 489 - Codeforces Round #277.5 (Div. 2)
+- [489B - BerSU Ball](problemset/1200/489B_bersu-ball.cpp) ([problem site](https://codeforces.com/contest/489/problem/B))
+- [489C - Given Length and Sum of Digits...](problemset/1400/489C_given-length-and-sum-of-digits.cpp) ([problem site](https://codeforces.com/contest/489/problem/C))
 
 ### Contest 486 - Codeforces Round #277 (Div. 2)
 - [486A - Calculating Function](problemset/800/486A_calculating-function.cpp) ([problem site](https://codeforces.com/contest/486/problem/A))
