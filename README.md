@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-154-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-125-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-158-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-128-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1475 - Codeforces Round #697 (Div. 3)
 - [1475A - Odd Divisor](problemset/900/1475A_odd-divisor.cpp) ([problem site](https://codeforces.com/contest/1475/problem/A))
@@ -19,6 +19,9 @@
 
 ### Contest 1440 - Codeforces Round #684 (Div. 2)
 - [1440A - Buy the String](problemset/800/1440A_buy-the-string.cpp) ([problem site](https://codeforces.com/contest/1440/problem/A))
+
+### Contest 1433 - Codeforces Round #677 (Div. 3)
+- [1433A - Boring Apartments](problemset/800/1433A_boring-apartments.cpp) ([problem site](https://codeforces.com/contest/1433/problem/A))
 
 ### Contest 1426 - Codeforces Round #674 (Div. 3)
 - [1426A - Floor Number](problemset/800/1426A_floor-number.cpp) ([problem site](https://codeforces.com/contest/1426/problem/A))
@@ -41,6 +44,10 @@
 
 ### Contest 1374 - Codeforces Round #653 (Div. 3)
 - [1374A - Required Remainder](problemset/800/1374A_required-remainder.cpp) ([problem site](https://codeforces.com/contest/1374/problem/A))
+- [1374B - Multiply by 2, divide by 6](problemset/900/1374B_multiply-by-2-divide-by-6.cpp) ([problem site](https://codeforces.com/contest/1374/problem/B))
+
+### Contest 1371 - Codeforces Round #654 (Div. 2)
+- [1371A - Magical Sticks](problemset/800/1371A_magical-sticks.cpp) ([problem site](https://codeforces.com/contest/1371/problem/A))
 
 ### Contest 1370 - Codeforces Round #651 (Div. 2)
 - [1370A - Maximum GCD](problemset/800/1370A_maximum-gcd.cpp) ([problem site](https://codeforces.com/contest/1370/problem/A))
@@ -238,7 +245,10 @@
 - [443A - Anton and Letters](problemset/800/443A_anton-and-letters.cpp) ([problem site](https://codeforces.com/contest/443/problem/A))
 
 ### Contest 432 - Codeforces Round #246 (Div. 2)
-- [432A - CHoosing Teams](problemset/800/432A_choosing-teams.cpp) ([problem site](https://codeforces.com/contest/432/problem/A))
+- [432A - Choosing Teams](problemset/800/432A_choosing-teams.cpp) ([problem site](https://codeforces.com/contest/432/problem/A))
+
+### Contest 431 - Codeforces Round #247 (Div. 2)
+- [431A - Black Square](problemset/800/431A_black-square.cpp) ([problem site](https://codeforces.com/contest/431/problem/A))
 
 ### Contest 427 - Codeforces Round #244 (Div. 2)
 - [427A - Police Recruits](problemset/800/427A_police-recruits.cpp) ([problem site](https://codeforces.com/contest/427/problem/A))
