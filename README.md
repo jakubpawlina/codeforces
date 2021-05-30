@@ -1,10 +1,16 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-158-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-128-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-165-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-135-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+
+### Contest 1520 - Codeforces Round #719 (Div. 3)
+- [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
 
 ### Contest 1475 - Codeforces Round #697 (Div. 3)
 - [1475A - Odd Divisor](problemset/900/1475A_odd-divisor.cpp) ([problem site](https://codeforces.com/contest/1475/problem/A))
 - [1475B - New Year's Number](problemset/900/1475B_new-years-number.cpp) ([problem site](https://codeforces.com/contest/1475/problem/B))
+
+### Contest 1472 - Codeforces Round #693 (Div. 3)
+- [1472A - Cards for Friends](problemset/800/1472A_cards-for-friends.cpp) ([problem site](https://codeforces.com/contest/1472/problem/A))
 
 ### Contest 1462 - Codeforces Round #690 (Div. 3)
 - [1462A - Favorite Sequence](div3%23690_2020-12-15/Problem-A.cpp) ([problem site](https://codeforces.com/contest/1462/problem/A))
@@ -52,6 +58,9 @@
 ### Contest 1370 - Codeforces Round #651 (Div. 2)
 - [1370A - Maximum GCD](problemset/800/1370A_maximum-gcd.cpp) ([problem site](https://codeforces.com/contest/1370/problem/A))
 
+### Contest 1369 - Codeforces Round #652 (Div. 2)
+- [1369A - FashionabLee](problemset/800/1369A_fashionablee.cpp) ([problem site](https://codeforces.com/contest/1369/problem/A))
+
 ### Contest 1368 - Codeforces Global Round 8
 - [1368A - C+=](problemset/800/1368A_c-plus-equal.cpp) ([problem site](https://codeforces.com/contest/1368/problem/A))
 - [1368B - Codeforces Subsequences](problemset/1500/1368B_codeforces-subsequences.cpp) ([problem site](https://codeforces.com/contest/1368/problem/B))
@@ -64,6 +73,9 @@
 ### Contest 1360 - Codeforces Round #644 (Div. 3)
 - [1360A - Minimal Square](problemset/800/1360A_minimal-square.cpp) ([problem site](https://codeforces.com/contest/1360/problem/A))
 - [1360B - Honest Coach](problemset/800/1360B_honest-coach.cpp) ([problem site](https://codeforces.com/contest/1360/problem/B))
+
+### Contest 1358 - Codeforces Round #645 (Div. 2)
+- [1358A - Park Lighting](problemset/800/1358A_park-lighting.cpp) ([problem site](https://codeforces.com/contest/1358/problem/A))
 
 ### Contest 1353 - Codeforces Round #642 (Div. 3)
 - [1353A - Most Unstable Array](problemset/800/1353A_most-unstable-array.cpp) ([problem site](https://codeforces.com/contest/1353/problem/A))
@@ -89,6 +101,9 @@
 
 ### Contest 1327 - Educational Codeforces Round 84 (Rated for Div. 2)
 - [1327A - Sum of Odd Integers](problemset/1100/1327A_sum-of-odd-integers.cpp) ([problem site](https://codeforces.com/contest/1327/problem/A))
+
+### Contest 1311 - Codeforces Round #624 (Div. 3)
+- [1311A - Add Odd or Subtract Even](problemset/800/1311A_add-odd-or-subtract-even.cpp) ([problem site](https://codeforces.com/contest/1311/problem/A))
 
 ### Contest 1294 - Codeforces Round #615 (Div. 3)
 - [1294A - Collecting Coins](problemset/800/1294A_collecting-coins.cpp) ([problem site](https://codeforces.com/contest/1294/problem/A))
@@ -174,6 +189,9 @@
 
 ### Contest 617 - Codeforces Round #340 (Div. 2)
 - [617A - Elephant](problemset/800/617A_elephant.cpp) ([problem site](https://codeforces.com/contest/617/problem/A))
+
+### Contest 584 - Codeforces Round #324 (Div. 2)
+- [584A - Olesya and Rodion](problemset/1000/584A_olesya-and-rodion.cpp) ([problem site](https://codeforces.com/contest/584/problem/A))
 
 ### Contest 581 - Codeforces Round #322 (Div. 2)
 - [581A - Vasya the Hipster](problemset/800/581A_vasya-the-hipster.cpp) ([problem site](https://codeforces.com/contest/581/problem/A))
@@ -370,6 +388,9 @@
 
 ### Contest 96 - Codeforces Beta Round #77 (Div. 2 Only)
 - [96A - Football](problemset/900/96A_football.cpp) ([problem site](https://codeforces.com/contest/96/problem/A))
+
+### Contest 82 - Yandex.Algorithm 2011: Qualification 2
+- [82A - Double Cola](problemset/1100/82A_double-cola.cpp) ([problem site](https://codeforces.com/contest/82/problem/A))
 
 ### Contest 71 - Codeforces Beta Round #65 (Div. 2)
 - [71A - Way Too Long Words](problemset/800/71A_way-too-long-words.cpp) ([problem site](https://codeforces.com/contest/71/problem/A))
