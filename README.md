@@ -1,9 +1,12 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-165-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-135-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-169-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-138-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
+
+### Contest 1512 - Codeforces Round #713 (Div. 3)
+- [1512A - Spy Detected!](problemset/800/1512A_spy-detected.cpp) ([problem site](https://codeforces.com/contest/1512/problem/A))
 
 ### Contest 1475 - Codeforces Round #697 (Div. 3)
 - [1475A - Odd Divisor](problemset/900/1475A_odd-divisor.cpp) ([problem site](https://codeforces.com/contest/1475/problem/A))
@@ -51,6 +54,9 @@
 ### Contest 1374 - Codeforces Round #653 (Div. 3)
 - [1374A - Required Remainder](problemset/800/1374A_required-remainder.cpp) ([problem site](https://codeforces.com/contest/1374/problem/A))
 - [1374B - Multiply by 2, divide by 6](problemset/900/1374B_multiply-by-2-divide-by-6.cpp) ([problem site](https://codeforces.com/contest/1374/problem/B))
+
+### Contest 1372 - Codeforces Round #655 (Div. 2)
+- [1372A - Okmar and Completion](problemset/800/1372A-okmar-and-completion.cpp) ([problem site](https://codeforces.com/contest/1372/problem/A))
 
 ### Contest 1371 - Codeforces Round #654 (Div. 2)
 - [1371A - Magical Sticks](problemset/800/1371A_magical-sticks.cpp) ([problem site](https://codeforces.com/contest/1371/problem/A))
@@ -162,6 +168,10 @@
 
 ### Contest 732 - Codeforces Round #377 (Div. 2)
 - [732A - Buy a Shovel](problemset/800/732A_buy-a-shovel.cpp) ([problem site](https://codeforces.com/contest/732/problem/A))
+
+### Contest 731 - Codeforces Round #376 (Div. 2)
+- [731A - Night at the Museum](problemset/800/731A_night-at-the-museum.cpp) ([problem site](https://codeforces.com/contest/731/problem/A))
+- [731C - Socks](problemset/1600/731C_socks.cpp) ([problem site](https://codeforces.com/contest/731/problem/C))
 
 ### Contest 727 - Technocup 2017 - Elimination Round 1 (Unofficially Open for Everyone, Rated for Div. 2)
 - [727A - Transformation: from A to B](problemset/1000/727A_transformation-from-a-to-b.cpp) ([problem site](https://codeforces.com/contest/727/problem/A))
