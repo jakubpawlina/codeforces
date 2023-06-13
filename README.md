@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-172-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-141-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-173-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-142-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
@@ -298,6 +298,9 @@
 
 ### Contest 379 - Good Bye 2013
 - [379A - New Year Candles](problemset/800/379A_new-year-candles.cpp) ([problem site](https://codeforces.com/contest/379/problem/A))
+
+### Contest 346 - Codeforces Round 201 (Div. 1)
+- [346A - Alice and Bob](problemset/1600/346A_alice-and-bob.cpp) ([problem site](https://codeforces.com/contest/346/problem/A))
 
 ### Contest 344 - Codeforces Round #200 (Div. 2)
 - [344A - Magnets](problemset/800/344A_magnets.cpp) ([problem site](https://codeforces.com/contest/344/problem/A))
