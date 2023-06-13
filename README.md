@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-171-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-140-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-172-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-141-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
@@ -119,6 +119,9 @@
 
 ### Contest 1234 - Codeforces Round #590 (Div. 3)
 - [1234A - Equalize Prices Again](problemset/800/1234A_equalize-prices-again.cpp) ([problem site](https://codeforces.com/contest/1234/problem/A))
+
+### Contest 1175 - Educational Codeforces Round 66 (Rated for Div. 2)
+- [1175B - Catch Overflow!](problemset/1600/1175B_catch-overflow.cpp) ([problem site](https://codeforces.com/contest/1175/problem/B))
 
 ### Contest 1154 - Codeforces Round #552 (Div. 3)
 - [1154A - Restoring Three Numbers](problemset/800/1154A_restoring-three-numbers.cpp) ([problem site](https://codeforces.com/contest/1154/problem/A))
