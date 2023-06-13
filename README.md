@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-169-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-138-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-170-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-139-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
@@ -141,6 +141,9 @@
 
 ### Contest 996 - Codeforces Round #492 (Div. 2) [Thanks, uDebug!]
 - [996A - Hit the Lottery](problemset/800/996A_hit-the-lottery.cpp) ([problem site](https://codeforces.com/contest/996/problem/A))
+
+### Contest 990 - Educational Codeforces Round 45 (Rated for Div. 2)
+- [990C - Bracket Sequences Concatenation Problem](problemset/1500/990C_bracket-sequences-concatenation-problem.cpp) ([problem site](https://codeforces.com/problemset/problem/990/C))
 
 ### Contest 977 - Codeforces Round #479 (Div. 3)
 - [977A - Wrong Subtraction](problemset/800/977A_wrong-subtraction.cpp) ([problem site](https://codeforces.com/contest/977/problem/A))
