@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-170-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-139-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-171-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-140-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
@@ -165,6 +165,9 @@
 
 ### Contest 749 - Codeforces Round #388 (Div. 2)
 - [749A - Bachgold Problem](problemset/800/749A_bachgold-problem.cpp) ([problem site](https://codeforces.com/contest/749/problem/A))
+
+### Contest 743 - Codeforces Round 384 (Div. 2)
+- [743B - Chloe and the sequence](problemset/1200/743B_chloe-and-the-sequence.cpp) ([problem site](https://codeforces.com/contest/743/problem/B))
 
 ### Contest 734 - Codeforces Round #379 (Div. 2)
 - [734A - Anton and Danik](problemset/800/734A_anton-and-danik.cpp) ([problem site](https://codeforces.com/contest/734/problem/A))
