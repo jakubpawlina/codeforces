@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-174-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-143-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-175-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-144-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
@@ -374,6 +374,9 @@
 ### Contest 158 - VK Cup 2012 Qualification Round 1
 - [158A - Next Round](problemset/800/158A_next-round.cpp) ([problem site](https://codeforces.com/contest/158/problem/A))
 - [158B - Taxi](problemset/1100/158B_taxi.cpp) ([problem site](https://codeforces.com/contest/158/problem/B))
+
+### Contest 157 - Codeforces Round 110 (Div. 2)
+- [157B - Trace](problemset/1000/157B_trace.cpp) ([problem site](https://codeforces.com/contest/157/problem/B))
 
 ### Contest 155 - Codeforces Round #109 (Div. 2)
 - [155A - I_love_%username%](problemset/800/155A_i_love_username.cpp) ([problem site](https://codeforces.com/contest/155/problem/A))
