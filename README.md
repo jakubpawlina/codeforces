@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-175-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-144-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-176-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-145-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
@@ -159,6 +159,9 @@
 
 ### Contest 785 - Codeforces Round #404 (Div. 2)
 - [785A - Anton and Polyhedrons](problemset/800/785A_anton-and-polyhedrons.cpp) ([problem site](https://codeforces.com/contest/785/problem/A))
+
+### Contest 768 - Divide by Zero 2017 and Codeforces Round 399 (Div. 1 + Div. 2, combined)
+- [768E - Game of Stones](problemset/2100/768E_game-of-stones.cpp) ([problem site](https://codeforces.com/contest/768/problem/E))
 
 ### Contest 758 - Codeforces Round #392 (Div. 2)
 - [758A - Choliday Of Equality](problemset/800/758A_choliday-of-equality.cpp) ([problem site](https://codeforces.com/contest/758/problem/A))
