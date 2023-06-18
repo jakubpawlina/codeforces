@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-173-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-142-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-174-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-143-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
@@ -364,6 +364,9 @@
 
 ### Contest 189 - Codeforces Round #119 (Div. 2)
 - [189A - Cut Ribbon](problemset/1300/189A_cut-ribbon.cpp) ([problem site](https://codeforces.com/contest/189/problem/A))
+
+### Contest 172 - Croc Champ 2012 - Qualification Round
+- [172A - Phone Code](problemset/800/172A_phone-code.cpp) ([problem site](https://codeforces.com/contest/172/problem/A))
 
 ### Contest 160 - Codeforces Round #111 (Div. 2)
 - [160A - Twins](problemset/900/160A_twins.cpp) ([problem site](https://codeforces.com/contest/160/problem/A))
