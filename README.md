@@ -1,6 +1,6 @@
 # Codeforces Solutions
 
-![Generic badge](https://img.shields.io/badge/Solved_tasks-176-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-145-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
+![Generic badge](https://img.shields.io/badge/Solved_tasks-177-succes.svg) ![Generic badge](https://img.shields.io/badge/Contests-145-green.svg) ![Generic badge](https://img.shields.io/badge/Language-C++-blue.svg)
 
 ### Contest 1520 - Codeforces Round #719 (Div. 3)
 - [1520A - Do Not Be Distracted!](problemset/800/1520A_do-not-be-distracted.cpp) ([problem site](https://codeforces.com/contest/1520/problem/A))
@@ -187,6 +187,7 @@
 
 ### Contest 727 - Technocup 2017 - Elimination Round 1 (Unofficially Open for Everyone, Rated for Div. 2)
 - [727A - Transformation: from A to B](problemset/1000/727A_transformation-from-a-to-b.cpp) ([problem site](https://codeforces.com/contest/727/problem/A))
+- [727B - Bill Total Value](problemset/1600/727B_bill-total-value.cpp) ([problem site](https://codeforces.com/contest/727/problem/B))
 
 ### Contest 723 - Codeforces Round #375 (Div. 2)
 - [723A - The New Year: Meeting Friends](problemset/800/723A_the-new-year-meeting-friends.cpp) ([problem site](https://codeforces.com/contest/723/problem/A))
